@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Nadia El Fassi",
+        "email": "nadia@example.test",
+        "password": "1234",
+        "joined": "2023-05-14",
+        "adopted": 2,
+        "returned": 0,
+        "status": "Excellent follow-up history",
+        "phone": "+212 600 100 101",
+        "housing": "Apartment"
+    },
+    {
+        "name": "Karim Mansouri",
+        "email": "karim@example.test",
+        "password": "1234",
+        "joined": "2024-02-02",
+        "adopted": 1,
+        "returned": 1,
+        "status": "Return accepted after allergy report",
+        "phone": "+212 600 100 102",
+        "housing": "House with garden"
+    },
+    {
+        "name": "Hiba Saidi",
+        "email": "hiba@example.test",
+        "password": "1234",
+        "joined": "2025-01-19",
+        "adopted": 1,
+        "returned": 0,
+        "status": "Meeting notes positive",
+        "phone": "+212 600 100 103",
+        "housing": "Shared family home"
+    },
+    {
+        "name": "yasser errahouti",
+        "email": "yasser@pawhouse.test",
+        "password": "yasseryasser",
+        "joined": "2026-06-01",
+        "adopted": 0,
+        "returned": 0,
+        "status": "Excellent follow-up history",
+        "phone": "+212671935150",
+        "housing": "Apartment"
+    },
+    {
+        "name": "donia boali",
+        "email": "dondona@gmail.com",
+        "password": "dondona",
+        "joined": "2026-06-01",
+        "adopted": 0,
+        "returned": 0,
+        "status": "Excellent follow-up history",
+        "phone": "+212671935150",
+        "housing": "Shared family home"
+    }
+]
